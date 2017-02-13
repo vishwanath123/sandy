@@ -4,4 +4,7 @@ pak
 eng
 afg
 ari
+i
+sri
+vanakam
 
